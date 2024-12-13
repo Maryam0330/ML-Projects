@@ -1,19 +1,14 @@
 # ML-Projects
 
-## 1. EDA and Feature Engineering
+## EDA and Feature Engineering
 
-### **i. Red Wine Dataset - EDA**
-The dataset contains data related to red and white variants of Portuguese "Vinho Verde" wine, with physicochemical and sensory variables. The classes are ordered and imbalanced, with more normal wines than excellent or poor ones. 
+### **1. Red Wine Dataset - EDA**
+Analyzed physicochemical and sensory data for Portuguese "Vinho Verde" wine. Addressed missing values, removed duplicates, and performed in-depth EDA to uncover key insights from this imbalanced dataset
 
----
+### **2. Flight Price Prediction - Feature Engineering**
+Worked on a dataset containing features like source city, departure/arrival times, destination city, etc. The goal was to convert all the categorical features into numerical values, making the dataset ready for training a machine learning model. Transformed categorical columns into numerical values through feature engineering, preparing the data for machine learning model training.
 
-### **ii. Flight Price Prediction - Feature Engineering**
-The dataset contains various features related to flights, such as the source city, departure time, arrival time, destination city, etc. The task involved performing feature engineering to handle these different columns. The goal was to convert all the categorical features into numerical values, making the dataset ready for training a machine learning model.
-The feature engineering process transformed these categorical features into numerical features, preparing the dataset for use in a machine learning model.
-
----
-
-### **iii. Google Play Store Dataset - EDA and Feature Engineering**
+### **3. Google Play Store Dataset - EDA and Feature Engineering**
 #### Problem Statement:
 With 1.85 million apps available on Google Play Store, the goal is to identify trends such as the most popular category, the app with the largest number of installs, and the app with the largest size.
 
