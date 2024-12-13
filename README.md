@@ -3,7 +3,7 @@
 ## 1. EDA and Feature Engineering
 
 ### **i. Red Wine Dataset - EDA**
-The dataset contains data related to red and white variants of Portuguese "Vinho Verde" wine, with physicochemical and sensory variables. It can be treated as a classification or regression task. The classes are ordered and imbalanced, with more normal wines than excellent or poor ones. Outlier detection algorithms are useful to identify excellent or poor wines. Feature selection methods may also be explored to evaluate the relevance of the input variables.
+The dataset contains data related to red and white variants of Portuguese "Vinho Verde" wine, with physicochemical and sensory variables. The classes are ordered and imbalanced, with more normal wines than excellent or poor ones. 
 
 ---
 
