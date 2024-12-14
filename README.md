@@ -24,7 +24,7 @@ The dataset consists of 20 columns and 10,841 rows.
 
 ## **Linear, Ridge, Lasso and ElasticNet Regression**
 
-### **Algerian Forest Fires Dataset**
+### **Algerian Forest Fire Dataset**
 #### Dataset information:
 The dataset includes 244 instances that regroup a data of two regions of Algeria, namely the Bejaia region located in the northeast of Algeria and the Sidi Bel-abbes region located in the northwest of Algeria.
 
