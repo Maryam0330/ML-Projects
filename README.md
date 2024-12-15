@@ -25,14 +25,14 @@ The dataset consists of 20 columns and 10,841 rows.
 ## **Linear, Ridge, Lasso and ElasticNet Regression**
 
 ### **Algerian Forest Fire Dataset**
+Explored the "Algerian Forest Fires Dataset" to uncover meaningful insights and build predictive models for the Fire Weather Index (FWI). Ensured dataset accuracy through rigorous data cleaning, performed detailed Exploratory Data Analysis (EDA) to identify patterns and trends, and engineered relevant features to enhance model performance. Applied advanced feature selection techniques to pinpoint the most impactful attributes based on correlation. Trained and evaluated multiple regression models, including Linear, Ridge, Lasso, and ElasticNet Regression, to predict FWI. Fine-tuned the models with hyperparameter optimization and cross-validation, achieving robust results for this regression problem.
+
 #### Dataset information:
-The dataset includes 244 instances that regroup a data of two regions of Algeria, namely the Bejaia region located in the northeast of Algeria and the Sidi Bel-abbes region located in the northwest of Algeria.
-
-122 instances for each region.
-
-The period from June 2012 to September 2012.
-The dataset includes 11 attributes and 1 output attribute (class).
-The 244 instances have been classified into fire (138 classes) and not fire (106 classes) classes.
+- Regions Covered: Bejaia (Northeast Algeria) and Sidi Bel-abbes (Northwest Algeria)
+- Timeframe: June to September 2012
+- Instances: 244 (122 per region)
+- Attributes: 11 features and 1 output (fire or no fire classification: 138 fire, 106 no fire)
+#### Note: Since this was a regression problem statement, considered FWI as the dependent feature and computed it based on all the independent features.
 
 #### Steps:
 1. Cleaning the Dataset
